@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5a8f566bc1462f2d9418e913"},"City":"Bangalore","Office":"EC","Tower":"EC3_T8","Slot_Size":2,"Slot_Info":[{"Slot_Name":"1","Slot_Status":"Free","Slot_Type":"two","_id":{"$oid":"5a8f566bc1462f2d9418e915"}},{"Slot_Name":"2","Slot_Status":"Free","Slot_Type":"four","_id":{"$oid":"5a8f566bc1462f2d9418e914"}}],"__v":0}
